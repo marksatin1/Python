@@ -1,4 +1,4 @@
-README
+# README
 
 Given a CSV file of soccer teams in the World Cup and their FIFA ratings, tournament.py determines the percent chance that each team will win the tournament.
 
@@ -16,7 +16,7 @@ This functionality is repeated for each pair of two teams until we move through 
 
 Two sample CSV files are included in this directory.
 
-Expected Output:
+### Expected Output:
 
 Germany: 16.0% chance of winning
 England: 14.6% chance of winning
