@@ -1,4 +1,4 @@
-README
+# README
 
 dna.py verifies whether an unidentified DNA sample (such as one found at a crime scene) matches any individuals whose DNA has been sequenced and recorded in a database. It does this by counting the longest consecutive chain of short tandem repeats (STRs) in the found DNA and comparing it to the longest consecutive chains of those repeats in the DNA of each person in the database.
 
@@ -24,9 +24,9 @@ If all counts match then the corresponding person's name is printed from the dat
 
 The directory contains two sample databases and ten sample DNA sequences.
 
-EXPECTED OUTPUTS
+### EXPECTED OUTPUTS
 
-Ginny
-Ron
-Harry
-No match
+- Ginny
+- Ron
+- Harry
+- No match
