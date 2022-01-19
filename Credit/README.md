@@ -10,7 +10,7 @@ If the sum is an odd number then the credit card is INVALID and the program exit
 
 EXPECTED OUTPUTS
 
-AMEX
-MASTERCARD
-VISA
-INVALID
+-AMEX
+-MASTERCARD
+-VISA
+-INVALID
