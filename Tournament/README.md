@@ -16,19 +16,19 @@ This functionality is repeated for each pair of two teams until we move through 
 
 Two sample CSV files are included in this directory.
 
-### Expected Output:
+#### Expected Output:
 
-Germany: 16.0% chance of winning
-England: 14.6% chance of winning
-United States: 14.4% chance of winning
-France: 8.8% chance of winning
-Australia: 8.1% chance of winning
-Japan: 6.9% chance of winning
-Canada: 6.8% chance of winning
-Netherlands: 5.3% chance of winning
-Sweden: 4.6% chance of winning
-Brazil: 3.3% chance of winning
-Norway: 3.0% chance of winning
-Spain: 2.8% chance of winning
-Italy: 2.7% chance of winning
-China PR: 2.7% chance of winning
+Germany: 16.0% chance of winning  
+England: 14.6% chance of winning  
+United States: 14.4% chance of winning  
+France: 8.8% chance of winning  
+Australia: 8.1% chance of winning  
+Japan: 6.9% chance of winning  
+Canada: 6.8% chance of winning  
+Netherlands: 5.3% chance of winning  
+Sweden: 4.6% chance of winning  
+Brazil: 3.3% chance of winning  
+Norway: 3.0% chance of winning  
+Spain: 2.8% chance of winning  
+Italy: 2.7% chance of winning  
+China PR: 2.7% chance of winning  
