@@ -24,9 +24,9 @@ If all counts match then the corresponding person's name is printed from the dat
 
 The directory contains two sample databases and ten sample DNA sequences.
 
-### EXPECTED OUTPUTS
+#### EXPECTED OUTPUTS
 
-- Ginny
-- Ron
-- Harry
-- No match
+Alex  
+Ben  
+AJ  
+No match  
