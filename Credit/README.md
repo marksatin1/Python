@@ -8,9 +8,9 @@ Once past these initial checks, the module looks at the odd digits starting from
 
 If the sum is an odd number then the credit card is INVALID and the program exits. Otherwise it checks the number of digits in the card and the value of specific digits to determine which company has issued the card.
 
-### EXPECTED OUTPUTS
+#### EXPECTED OUTPUTS
 
-- AMEX
-- MASTERCARD
-- VISA
-- INVALID
+AMEX  
+MASTERCARD  
+VISA  
+INVALID  
