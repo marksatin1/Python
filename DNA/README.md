@@ -24,7 +24,11 @@ If all counts match then the corresponding person's name is printed from the dat
 
 The directory contains two sample databases and ten sample DNA sequences.
 
-#### EXPECTED OUTPUTS
+### EXAMPLE INPUT
+
+python3 dna.py large.csv 7.txt
+
+### EXAMPLE OUTPUTS
 
 Alex  
 Ben  
