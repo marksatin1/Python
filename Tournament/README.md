@@ -16,7 +16,11 @@ This functionality is repeated for each pair of two teams until we move through 
 
 Two sample CSV files are included in this directory.
 
-#### Expected Output:
+### EXAMPLE INPUT
+
+python tournament.py 2018m.csv
+
+### EXAMPLE OUTPUT
 
 Germany: 16.0% chance of winning  
 England: 14.6% chance of winning  
